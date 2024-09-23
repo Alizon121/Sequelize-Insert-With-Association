@@ -1,0 +1,1 @@
+# Sequelize-Insert-With-Association
